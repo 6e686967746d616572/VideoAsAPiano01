@@ -1,0 +1,6 @@
+.DS_Store
+applet
+application.linux32
+application.windows32
+application.windows64
+application.macosx
